@@ -71,5 +71,10 @@ payload:
 ##进程
  - PROCESS-NAME,zyplayer.exe,DIRECT
  - PROCESS-NAME,LeagueClient.exe,DIRECT
- - PROCESS-NAME, LeagueClientUxRender.exe,DIRECT
+ - PROCESS-NAME,LeagueClientUxRender.exe,DIRECT
+ - PROCESS-NAME,CE-Helper.exe,DIRECT
+ - PROCESS-NAME,GameBarPresenceWriter.exe,DIRECT
+ - PROCESS-NAME,NVIDIA Share.exe,DIRECT
+
+
 
