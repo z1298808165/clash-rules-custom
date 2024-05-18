@@ -85,7 +85,7 @@ payload:
  - PROCESS-NAME,wpscloudsvr.exe,DIRECT
  - PROCESS-NAME,SystemSettings.exe,DIRECT
  - PROCESS-NAME,SearchHost.exe,DIRECT
-
+ - PROCESS-NAME,LeagueTavern_pro.exe,DIRECT
  
 
 
