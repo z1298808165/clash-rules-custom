@@ -55,8 +55,6 @@ payload:
   - 'DOMAIN-SUFFIX,json.icu,DIRECT'
   - 'DOMAIN-SUFFIX,kuqjz.com,DIRECT'
   - 'DOMAIN-SUFFIX,ppsebs.com,DIRECT'
-  - 'DOMAIN-SUFFIX,rawchat.cc,DIRECT'
-  - 'DOMAIN-SUFFIX,cloudflare.com,DIRECT'
 
 
 ##完整域名
@@ -69,6 +67,7 @@ payload:
 
 ##IP
   - 'IP-CIDR,18.163.11.0/24,DIRECT,no-resolve'
+
 
 ##进程
  - PROCESS-NAME,zyplayer.exe,DIRECT
