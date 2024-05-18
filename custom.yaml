@@ -70,3 +70,5 @@ payload:
 
 ##进程
  - PROCESS-NAME,zyplayer.exe,DIRECT
+ - PROCESS-NAME,LeagueClient.exe,DIRECT
+ 
