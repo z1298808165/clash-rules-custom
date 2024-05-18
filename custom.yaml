@@ -75,6 +75,11 @@ payload:
  - PROCESS-NAME,CE-Helper.exe,DIRECT
  - PROCESS-NAME,GameBarPresenceWriter.exe,DIRECT
  - PROCESS-NAME,NVIDIA Share.exe,DIRECT
+ - PROCESS-NAME,SGuard64.exe,DIRECT
+ - PROCESS-NAME,SGuardSvc64.exe,DIRECT
+ - PROCESS-NAME,SGuardUpdate64.exe,DIRECT
+
+ 
 
 
 
