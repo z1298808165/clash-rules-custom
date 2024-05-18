@@ -79,6 +79,12 @@ payload:
  - PROCESS-NAME,SGuard64.exe,DIRECT
  - PROCESS-NAME,SGuardSvc64.exe,DIRECT
  - PROCESS-NAME,SGuardUpdate64.exe,DIRECT
+ - PROCESS-NAME, ACE-Helper.exe,DIRECT
+ - PROCESS-NAME,GameBar.exe,DIRECT
+ - PROCESS-NAME,backgroundTaskHost.exe,DIRECT
+ - PROCESS-NAME,wpscloudsvr.exe,DIRECT
+ - PROCESS-NAME,SystemSettings.exe,DIRECT
+ - PROCESS-NAME,SearchHost.exe,DIRECT
 
  
 
