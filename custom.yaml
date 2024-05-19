@@ -33,6 +33,7 @@ payload:
   - 'DOMAIN-KEYWORD,wolong,DIRECT'
   - 'DOMAIN-KEYWORD,wegamex,DIRECT'
   - 'DOMAIN-KEYWORD,wegame,DIRECT'  
+  - 'DOMAIN-KEYWORD,xbox,DIRECT'  
   
     
 ##域名后缀
@@ -61,8 +62,9 @@ payload:
   - 'DOMAIN-SUFFIX,wpscdn.cn,DIRECT'
   - 'DOMAIN-SUFFIX,qq.com,DIRECT'
   - 'DOMAIN-SUFFIX,gtimg.cn,DIRECT'
+  - 'DOMAIN-SUFFIX,skypack.dev,DIRECT'
+  - 'DOMAIN-SUFFIX,bing.net,DIRECT' 
 
-  
 
 ##完整域名
   - 'DOMAIN,svipsvip.ffzy-online5.com,DIRECT'
@@ -73,7 +75,6 @@ payload:
   - 'DOMAIN,tqos.anticheatexpert.com,DIRECT'
   
     
-
 ##IP
   - 'IP-CIDR,18.163.11.0/24,DIRECT,no-resolve'
 
