@@ -64,7 +64,7 @@ payload:
   - 'DOMAIN-SUFFIX,gtimg.cn,DIRECT'
   - 'DOMAIN-SUFFIX,skypack.dev,DIRECT'
   - 'DOMAIN-SUFFIX,bing.net,DIRECT' 
-
+  - 'DOMAIN-SUFFIX,xboxlive.com,DIRECT' 
 
 ##完整域名
   - 'DOMAIN,svipsvip.ffzy-online5.com,DIRECT'
