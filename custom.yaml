@@ -86,7 +86,10 @@ payload:
  - 'PROCESS-NAME,SystemSettings.exe,DIRECT'
  - 'PROCESS-NAME,SearchHost.exe,DIRECT'
  - 'PROCESS-NAME,LeagueTavern_pro.exe,DIRECT'
+ - 'PROCESS-NAME,svchost.exe,DIRECT'
+ - 'PROCESS-NAME,TextInputHost.exe,DIRECT'
+ - 'PROCESS-NAME,MpDefenderCoreService.exe,DIRECT'
+
+
  
-
-
 
