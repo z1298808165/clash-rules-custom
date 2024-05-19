@@ -70,22 +70,22 @@ payload:
 
 
 ##进程
- - PROCESS-NAME,zyplayer.exe,DIRECT
- - PROCESS-NAME,LeagueClient.exe,DIRECT
- - PROCESS-NAME,LeagueClientUxRender.exe,DIRECT
- - PROCESS-NAME,CE-Helper.exe,DIRECT
- - PROCESS-NAME,GameBarPresenceWriter.exe,DIRECT
- - PROCESS-NAME,NVIDIA Share.exe,DIRECT
- - PROCESS-NAME,SGuard64.exe,DIRECT
- - PROCESS-NAME,SGuardSvc64.exe,DIRECT
- - PROCESS-NAME,SGuardUpdate64.exe,DIRECT
- - PROCESS-NAME, ACE-Helper.exe,DIRECT
- - PROCESS-NAME,GameBar.exe,DIRECT
- - PROCESS-NAME,backgroundTaskHost.exe,DIRECT
- - PROCESS-NAME,wpscloudsvr.exe,DIRECT
- - PROCESS-NAME,SystemSettings.exe,DIRECT
- - PROCESS-NAME,SearchHost.exe,DIRECT
- - PROCESS-NAME,LeagueTavern_pro.exe,DIRECT
+ - 'PROCESS-NAME,zyplayer.exe,DIRECT'
+ - 'PROCESS-NAME,LeagueClient.exe,DIRECT'
+ - 'PROCESS-NAME,LeagueClientUxRender.exe,DIRECT'
+ - 'PROCESS-NAME,CE-Helper.exe,DIRECT'
+ - 'PROCESS-NAME,GameBarPresenceWriter.exe,DIRECT'
+ - 'PROCESS-NAME,NVIDIA Share.exe,DIRECT'
+ - 'PROCESS-NAME,SGuard64.exe,DIRECT'
+ - 'PROCESS-NAME,SGuardSvc64.exe,DIRECT'
+ - 'PROCESS-NAME,SGuardUpdate64.exe,DIRECT'
+ - 'PROCESS-NAME,ACE-Helper.exe,DIRECT'
+ - 'PROCESS-NAME,GameBar.exe,DIRECT'
+ - 'PROCESS-NAME,backgroundTaskHost.exe,DIRECT'
+ - 'PROCESS-NAME,wpscloudsvr.exe,DIRECT'
+ - 'PROCESS-NAME,SystemSettings.exe,DIRECT'
+ - 'PROCESS-NAME,SearchHost.exe,DIRECT'
+ - 'PROCESS-NAME,LeagueTavern_pro.exe,DIRECT'
  
 
 
