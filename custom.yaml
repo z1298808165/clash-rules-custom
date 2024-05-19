@@ -77,8 +77,10 @@ payload:
   - 'DOMAIN,cj.lziapi.com,DIRECT'
   - 'DOMAIN,xd.x6d.com,DIRECT'
   - 'DOMAIN,tqos.anticheatexpert.com,DIRECT'
-  
-    
+  - 'DOMAIN,api-iam.intercom.io,DIRECT'
+  - 'DOMAIN,widget.intercom.io,DIRECT'
+
+
 ##IP
   - 'IP-CIDR,18.163.11.0/24,DIRECT,no-resolve'
 
