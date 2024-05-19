@@ -32,8 +32,8 @@ payload:
   - 'DOMAIN-KEYWORD,waipian,DIRECT'
   - 'DOMAIN-KEYWORD,wolong,DIRECT'
   - 'DOMAIN-KEYWORD,wegamex,DIRECT'
-  - 'DOMAIN-KEYWORD,wegame,DIRECT'  
-  - 'DOMAIN-KEYWORD,xbox,DIRECT'  
+  - 'DOMAIN-KEYWORD,wegame,DIRECT'
+  - 'DOMAIN-KEYWORD,xbox,DIRECT'
   
     
 ##域名后缀
@@ -63,8 +63,12 @@ payload:
   - 'DOMAIN-SUFFIX,qq.com,DIRECT'
   - 'DOMAIN-SUFFIX,gtimg.cn,DIRECT'
   - 'DOMAIN-SUFFIX,skypack.dev,DIRECT'
-  - 'DOMAIN-SUFFIX,bing.net,DIRECT' 
-  - 'DOMAIN-SUFFIX,xboxlive.com,DIRECT' 
+  - 'DOMAIN-SUFFIX,bing.net,DIRECT'
+  - 'DOMAIN-SUFFIX,xboxlive.com,DIRECT'
+  - 'DOMAIN-SUFFIX,rawchat.cc,DIRECT'
+  - 'DOMAIN-SUFFIX,intercom.io,DIRECT'
+  - 'DOMAIN-SUFFIX,closeai.biz,DIRECT'
+
 
 ##完整域名
   - 'DOMAIN,svipsvip.ffzy-online5.com,DIRECT'
@@ -81,7 +85,7 @@ payload:
 
 ##进程
  - 'PROCESS-NAME,zyplayer.exe,DIRECT'
- - 'PROCESS-NAME,LeagueTavern.exe,DIRECT' 
+ - 'PROCESS-NAME,LeagueTavern.exe,DIRECT'
  - 'PROCESS-NAME,LeagueTavern_pro.exe,DIRECT'
 
 
