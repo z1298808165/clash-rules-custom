@@ -66,8 +66,6 @@ payload:
   - 'DOMAIN-SUFFIX,bing.net,DIRECT'
   - 'DOMAIN-SUFFIX,xboxlive.com,DIRECT'
   - 'DOMAIN-SUFFIX,rawchat.cc,DIRECT'
-  - 'DOMAIN-SUFFIX,cloudflare.com,DIRECT'  
-  - 'DOMAIN-SUFFIX,closeai.biz,DIRECT'
   - 'DOMAIN-SUFFIX,soupian.com,DIRECT'
   - 'DOMAIN-SUFFIX,githubusercontent.com,DIRECT'  
 
