@@ -89,7 +89,7 @@ payload:
  - 'PROCESS-NAME,svchost.exe,DIRECT'
  - 'PROCESS-NAME,TextInputHost.exe,DIRECT'
  - 'PROCESS-NAME,MpDefenderCoreService.exe,DIRECT'
-
+ - 'PROCESS-NAME,OfficeClickToRun.exe,DIRECT'
 
  
 
