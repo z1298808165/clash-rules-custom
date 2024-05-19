@@ -31,6 +31,9 @@ payload:
   - 'DOMAIN-KEYWORD,dsxys,DIRECT'
   - 'DOMAIN-KEYWORD,waipian,DIRECT'
   - 'DOMAIN-KEYWORD,wolong,DIRECT'
+  - 'DOMAIN-KEYWORD,wegamex,DIRECT'
+  - 'DOMAIN-KEYWORD,wegame,DIRECT'  
+  
     
 ##域名后缀
   - 'DOMAIN-SUFFIX,qq.com,DIRECT'
@@ -55,7 +58,11 @@ payload:
   - 'DOMAIN-SUFFIX,json.icu,DIRECT'
   - 'DOMAIN-SUFFIX,kuqjz.com,DIRECT'
   - 'DOMAIN-SUFFIX,ppsebs.com,DIRECT'
+  - 'DOMAIN-SUFFIX,wpscdn.cn,DIRECT'
+  - 'DOMAIN-SUFFIX,qq.com,DIRECT'
+  - 'DOMAIN-SUFFIX,gtimg.cn,DIRECT'
 
+  
 
 ##完整域名
   - 'DOMAIN,svipsvip.ffzy-online5.com,DIRECT'
@@ -63,6 +70,8 @@ payload:
   - 'DOMAIN,cdn.wlcdn99.com,DIRECT'
   - 'DOMAIN,cj.lziapi.com,DIRECT'
   - 'DOMAIN,xd.x6d.com,DIRECT'
+  - 'DOMAIN,tqos.anticheatexpert.com,DIRECT'
+  
     
 
 ##IP
@@ -71,18 +80,11 @@ payload:
 
 ##进程
  - 'PROCESS-NAME,zyplayer.exe,DIRECT'
- - 'PROCESS-NAME,LeagueClient.exe,DIRECT'
- - 'PROCESS-NAME,LeagueClientUxRender.exe,DIRECT'
- - 'PROCESS-NAME,CE-Helper.exe,DIRECT'
- - 'PROCESS-NAME,GameBarPresenceWriter.exe,DIRECT'
  - 'PROCESS-NAME,NVIDIA Share.exe,DIRECT'
  - 'PROCESS-NAME,SGuard64.exe,DIRECT'
  - 'PROCESS-NAME,SGuardSvc64.exe,DIRECT'
  - 'PROCESS-NAME,SGuardUpdate64.exe,DIRECT'
- - 'PROCESS-NAME,ACE-Helper.exe,DIRECT'
- - 'PROCESS-NAME,GameBar.exe,DIRECT'
  - 'PROCESS-NAME,backgroundTaskHost.exe,DIRECT'
- - 'PROCESS-NAME,wpscloudsvr.exe,DIRECT'
  - 'PROCESS-NAME,SystemSettings.exe,DIRECT'
  - 'PROCESS-NAME,SearchHost.exe,DIRECT'
  - 'PROCESS-NAME,LeagueTavern_pro.exe,DIRECT'
@@ -91,5 +93,4 @@ payload:
  - 'PROCESS-NAME,MpDefenderCoreService.exe,DIRECT'
  - 'PROCESS-NAME,OfficeClickToRun.exe,DIRECT'
 
- 
 
