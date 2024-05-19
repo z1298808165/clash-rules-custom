@@ -68,7 +68,8 @@ payload:
   - 'DOMAIN-SUFFIX,rawchat.cc,DIRECT'
   - 'DOMAIN-SUFFIX,closeai.biz,DIRECT'
   - 'DOMAIN-SUFFIX,soupian.com,DIRECT'
-  
+  - 'DOMAIN-SUFFIX,githubusercontent.com,DIRECT'  
+
 
 ##完整域名
   - 'DOMAIN,svipsvip.ffzy-online5.com,DIRECT'
