@@ -1,6 +1,6 @@
 payload:
 
 #IP
-  - 'IP-CIDR,18.163.11.0/24,DIRECT,no-resolve'
+  - '18.163.11.0/8'
 
 
