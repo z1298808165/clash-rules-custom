@@ -1,0 +1,6 @@
+payload:
+
+#进程
+ - 'PROCESS-NAME,zyplayer.exe,DIRECT'
+ - 'PROCESS-NAME,LeagueTavern.exe,DIRECT'
+ - 'PROCESS-NAME,LeagueTavern_pro.exe,DIRECT'
