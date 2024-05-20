@@ -1,11 +1,11 @@
 payload:
 
 #完整域名
-  - 'DOMAIN,svipsvip.ffzy-online5.com,DIRECT'
-  - 'DOMAIN,rikkati.today,DIRECT'
-  - 'DOMAIN,cdn.wlcdn99.com,DIRECT'
-  - 'DOMAIN,cj.lziapi.com,DIRECT'
-  - 'DOMAIN,xd.x6d.com,DIRECT'
-  - 'DOMAIN,tqos.anticheatexpert.com,DIRECT'
-  - 'DOMAIN,tqos.chat.rawchat.cc,DIRECT'  
+  - 'DOMAIN,svipsvip.ffzy-online5.com'
+  - 'DOMAIN,rikkati.today'
+  - 'DOMAIN,cdn.wlcdn99.com'
+  - 'DOMAIN,cj.lziapi.com'
+  - 'DOMAIN,xd.x6d.com'
+  - 'DOMAIN,tqos.anticheatexpert.com'
+  - 'DOMAIN,tqos.chat.rawchat.cc'  
 
