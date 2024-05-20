@@ -53,7 +53,7 @@ payload:
   - 'DOMAIN-SUFFIX,play-cdn21.com,DIRECT'
   - 'DOMAIN-SUFFIX,cdnlz21.com,DIRECT'
   - 'DOMAIN-SUFFIX,tdweilai.top,DIRECT'
-  - 'DOMAIN-SUFFIX,phvod.topDIRECT'
+  - 'DOMAIN-SUFFIX,phvod.top,DIRECT'
   - 'DOMAIN-SUFFIX,gszyi.com,DIRECT'
   - 'DOMAIN-SUFFIX,xn--4csx55ask7a.com,DIRECT'
   - 'DOMAIN-SUFFIX,json.icu,DIRECT'
