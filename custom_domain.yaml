@@ -9,3 +9,8 @@ payload:
   - 'tqos.anticheatexpert.com'
   - 'tqos.chat.rawchat.cc'  
   - 'teams.microsoft.com'
+  - 'teams.microsoft.com'
+  - 'statics.teams.cdn.office.net'
+  - 'local.teams.office.com'
+  - 'browser.events.data.microsoft.com'
+  - 'teams.events.data.microsoft.com'
