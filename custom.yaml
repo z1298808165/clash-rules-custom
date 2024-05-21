@@ -8,6 +8,7 @@ payload:
   - DOMAIN,xd.x6d.com
   - DOMAIN,tqos.anticheatexpert.com
   - DOMAIN,tqos.chat.rawchat.cc
+  - DOMAIN,teams.microsoft.com
 
 #域名后缀
   DOMAIN-SUFFIX,qq.com
