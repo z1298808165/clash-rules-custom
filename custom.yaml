@@ -10,6 +10,9 @@ payload:
   - DOMAIN,tqos.chat.rawchat.cc
   - DOMAIN,teams.microsoft.com
   - DOMAIN,statics.teams.cdn.office.net
+  - DOMAIN,local.teams.office.com
+  - DOMAIN,browser.events.data.microsoft.com
+  - DOMAIN,teams.events.data.microsoft.com
 
 #域名后缀
   DOMAIN-SUFFIX,qq.com
@@ -90,3 +93,4 @@ payload:
  - PROCESS-NAME,LeagueTavern.exe
  - PROCESS-NAME,LeagueTavern_pro
  - PROCESS-NAME,LeagueTavern_pro.exe
+ - PROCESS-NAME,Teams.exe
