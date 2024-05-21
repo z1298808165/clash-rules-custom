@@ -1,0 +1,89 @@
+payload:
+
+#完整域名
+  - DOMAIN,svipsvip.ffzy-online5.com
+  - DOMAIN,rikkati.today
+  - DOMAIN,cdn.wlcdn99.com
+  - DOMAIN,cj.lziapi.com
+  - DOMAIN,xd.x6d.com
+  - DOMAIN,tqos.anticheatexpert.com
+  - DOMAIN,tqos.chat.rawchat.cc
+
+#域名后缀
+  DOMAIN-SUFFIX,qq.com
+  DOMAIN-SUFFIX,ffzyread.com
+  DOMAIN-SUFFIX,woozooo.com
+  DOMAIN-SUFFIX,cdnlz2.com
+  DOMAIN-SUFFIX,ukubf4.com
+  DOMAIN-SUFFIX,ibrou.com
+  DOMAIN-SUFFIX,lzzyimg.com
+  DOMAIN-SUFFIX,ffzy-online6.com
+  DOMAIN-SUFFIX,absslk.xyz
+  DOMAIN-SUFFIX,adguard.org
+  DOMAIN-SUFFIX,bfengbf.com
+  DOMAIN-SUFFIX,physkan.com
+  DOMAIN-SUFFIX,play-cdn21.com
+  DOMAIN-SUFFIX,cdnlz21.com
+  DOMAIN-SUFFIX,tdweilai.top
+  DOMAIN-SUFFIX,phvod.top
+  DOMAIN-SUFFIX,gszyi.com
+  DOMAIN-SUFFIX,xn--4csx55ask7a.com
+  DOMAIN-SUFFIX,json.icu
+  DOMAIN-SUFFIX,kuqjz.com
+  DOMAIN-SUFFIX,ppsebs.com
+  DOMAIN-SUFFIX,wpscdn.cn
+  DOMAIN-SUFFIX,gtimg.cn
+  DOMAIN-SUFFIX,skypack.dev
+  DOMAIN-SUFFIX,bing.net
+  DOMAIN-SUFFIX,xboxlive.com
+  DOMAIN-SUFFIX,soupian.com
+  DOMAIN-SUFFIX,githubusercontent.com
+
+##关键字
+  - DOMAIN-KEYWORD,ntp
+  - DOMAIN-KEYWORD,wx.qlogo
+  - DOMAIN-KEYWORD,weixin
+  - DOMAIN-KEYWORD,wechat
+  - DOMAIN-KEYWORD,wxpay
+  - DOMAIN-KEYWORD,wxmp
+  - DOMAIN-KEYWORD,miniprogram
+  - DOMAIN-KEYWORD,tencent
+  - DOMAIN-KEYWORD,tenpay
+  - DOMAIN-KEYWORD,waipian
+  - DOMAIN-KEYWORD,keke
+  - DOMAIN-KEYWORD,dyxs
+  - DOMAIN-KEYWORD,puresys
+  - DOMAIN-KEYWORD,xxys
+  - DOMAIN-KEYWORD,ikan
+  - DOMAIN-KEYWORD,x6d
+  - DOMAIN-KEYWORD,freeok
+  - DOMAIN-KEYWORD,sleazyfork
+  - DOMAIN-KEYWORD,iya
+  - DOMAIN-KEYWORD,startallback
+  - DOMAIN-KEYWORD,94speed
+  - DOMAIN-KEYWORD,zz123
+  - DOMAIN-KEYWORD,bailemi
+  - DOMAIN-KEYWORD,sss604efuw
+  - DOMAIN-KEYWORD,liblib
+  - DOMAIN-KEYWORD,zhile
+  - DOMAIN-KEYWORD,ffzyread
+  - DOMAIN-KEYWORD,bfbfvip
+  - DOMAIN-KEYWORD,dsxys
+  - DOMAIN-KEYWORD,waipian
+  - DOMAIN-KEYWORD,wolong
+  - DOMAIN-KEYWORD,wegamex
+  - DOMAIN-KEYWORD,wegame
+  - DOMAIN-KEYWORD,xbox
+  - DOMAIN-KEYWORD,deeplx
+  - DOMAIN-KEYWORD,deepl
+
+#IP
+  - IP-CIDR,18.163.11.0/8
+
+#进程
+ - PROCESS-NAME,zyplayer
+ - PROCESS-NAME,zyplayer.exe
+ - PROCESS-NAME,LeagueTavern
+ - PROCESS-NAME,LeagueTavern.exe
+ - PROCESS-NAME,LeagueTavern_pro
+ - PROCESS-NAME,LeagueTavern_pro.exe
