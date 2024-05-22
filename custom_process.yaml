@@ -8,3 +8,4 @@ payload:
  - PROCESS-NAME,LeagueTavern_pro
  - PROCESS-NAME,LeagueTavern_pro.exe
  - PROCESS-NAME,Teams.exe
+ - PROCESS-NAME,SearchHost.exe
