@@ -14,6 +14,9 @@ payload:
   - DOMAIN,browser.events.data.microsoft.com
   - DOMAIN,teams.events.data.microsoft.com
   - DOMAIN,jptoyo.divychangfcvzcvx.com
+  - DOMAIN,yzzy1.play-cdn1.com
+  - DOMAIN,v.cdnlz12.com
+  - DOMAIN,vod6.bdzybf7.com
 
 #域名后缀
   - DOMAIN-SUFFIX,qq.com
@@ -46,6 +49,7 @@ payload:
   - DOMAIN-SUFFIX,githubusercontent.com
   - DOMAIN-SUFFIX,tdweilai.top
   - DOMAIN-SUFFIX,cdnlz3.com
+  - DOMAIN-SUFFIX,panghuys.com
   
 ##关键字
   - DOMAIN-KEYWORD,ntp
