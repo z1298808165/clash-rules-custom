@@ -45,7 +45,7 @@ payload:
   - DOMAIN-SUFFIX,githubusercontent.com
   - DOMAIN-SUFFIX,tdweilai.top
   - DOMAIN-SUFFIX,cdnlz3.com
-
+  
 ##关键字
   - DOMAIN-KEYWORD,ntp
   - DOMAIN-KEYWORD,wx.qlogo
@@ -84,6 +84,8 @@ payload:
   - DOMAIN-KEYWORD,deeplx
   - DOMAIN-KEYWORD,deepl
   - DOMAIN-KEYWORD,teams.microsoft.com
+  - DOMAIN-KEYWORD,shoubozhan
+
   
 #IP
   - IP-CIDR,18.163.11.0/8
