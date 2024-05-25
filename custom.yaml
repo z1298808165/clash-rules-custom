@@ -85,6 +85,7 @@ payload:
   - DOMAIN-KEYWORD,deepl
   - DOMAIN-KEYWORD,teams.microsoft.com
   - DOMAIN-KEYWORD,shoubozhan
+  - DOMAIN-KEYWORD,soupian  
 
   
 #IP
