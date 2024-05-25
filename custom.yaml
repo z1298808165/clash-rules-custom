@@ -44,6 +44,7 @@ payload:
   - DOMAIN-SUFFIX,soupian.com
   - DOMAIN-SUFFIX,githubusercontent.com
   - DOMAIN-SUFFIX,tdweilai.top
+  - DOMAIN-SUFFIX,cdnlz3.com
 
 ##关键字
   - DOMAIN-KEYWORD,ntp
