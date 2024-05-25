@@ -13,6 +13,7 @@ payload:
   - DOMAIN,local.teams.office.com
   - DOMAIN,browser.events.data.microsoft.com
   - DOMAIN,teams.events.data.microsoft.com
+  - DOMAIN,jptoyo.divychangfcvzcvx.com
 
 #域名后缀
   - DOMAIN-SUFFIX,qq.com
