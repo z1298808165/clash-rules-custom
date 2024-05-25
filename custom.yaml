@@ -52,6 +52,10 @@ payload:
   - DOMAIN-SUFFIX,cdnlz3.com
   - DOMAIN-SUFFIX,panghuys.com
   - DOMAIN-SUFFIX,physvod.com
+  - DOMAIN-SUFFIX,bxgbnet.com
+  - DOMAIN-SUFFIX,mzxay.com
+  - DOMAIN-SUFFIX,gdhktv.com
+
   
 ##关键字
   - DOMAIN-KEYWORD,ntp
