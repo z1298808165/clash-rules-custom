@@ -17,6 +17,7 @@ payload:
   - DOMAIN,yzzy1.play-cdn1.com
   - DOMAIN,v.cdnlz12.com
   - DOMAIN,vod6.bdzybf7.com
+  - DOMAIN,physvod.com
 
 #域名后缀
   - DOMAIN-SUFFIX,qq.com
