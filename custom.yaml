@@ -50,6 +50,7 @@ payload:
   - DOMAIN-SUFFIX,tdweilai.top
   - DOMAIN-SUFFIX,cdnlz3.com
   - DOMAIN-SUFFIX,panghuys.com
+  - DOMAIN-SUFFIX,physvod.com
   
 ##关键字
   - DOMAIN-KEYWORD,ntp
