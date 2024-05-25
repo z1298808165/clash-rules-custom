@@ -15,34 +15,35 @@ payload:
   - DOMAIN,teams.events.data.microsoft.com
 
 #域名后缀
-  DOMAIN-SUFFIX,qq.com
-  DOMAIN-SUFFIX,ffzyread.com
-  DOMAIN-SUFFIX,woozooo.com
-  DOMAIN-SUFFIX,cdnlz2.com
-  DOMAIN-SUFFIX,ukubf4.com
-  DOMAIN-SUFFIX,ibrou.com
-  DOMAIN-SUFFIX,lzzyimg.com
-  DOMAIN-SUFFIX,ffzy-online6.com
-  DOMAIN-SUFFIX,absslk.xyz
-  DOMAIN-SUFFIX,adguard.org
-  DOMAIN-SUFFIX,bfengbf.com
-  DOMAIN-SUFFIX,physkan.com
-  DOMAIN-SUFFIX,play-cdn21.com
-  DOMAIN-SUFFIX,cdnlz21.com
-  DOMAIN-SUFFIX,tdweilai.top
-  DOMAIN-SUFFIX,phvod.top
-  DOMAIN-SUFFIX,gszyi.com
-  DOMAIN-SUFFIX,xn--4csx55ask7a.com
-  DOMAIN-SUFFIX,json.icu
-  DOMAIN-SUFFIX,kuqjz.com
-  DOMAIN-SUFFIX,ppsebs.com
-  DOMAIN-SUFFIX,wpscdn.cn
-  DOMAIN-SUFFIX,gtimg.cn
-  DOMAIN-SUFFIX,skypack.dev
-  DOMAIN-SUFFIX,bing.net
-  DOMAIN-SUFFIX,xboxlive.com
-  DOMAIN-SUFFIX,soupian.com
-  DOMAIN-SUFFIX,githubusercontent.com
+  - DOMAIN-SUFFIX,qq.com
+  - DOMAIN-SUFFIX,ffzyread.com
+  - DOMAIN-SUFFIX,woozooo.com
+  - DOMAIN-SUFFIX,cdnlz2.com
+  - DOMAIN-SUFFIX,ukubf4.com
+  - DOMAIN-SUFFIX,ibrou.com
+  - DOMAIN-SUFFIX,lzzyimg.com
+  - DOMAIN-SUFFIX,ffzy-online6.com
+  - DOMAIN-SUFFIX,absslk.xyz
+  - DOMAIN-SUFFIX,adguard.org
+  - DOMAIN-SUFFIX,bfengbf.com
+  - DOMAIN-SUFFIX,physkan.com
+  - DOMAIN-SUFFIX,play-cdn21.com
+  - DOMAIN-SUFFIX,cdnlz21.com
+  - DOMAIN-SUFFIX,tdweilai.top
+  - DOMAIN-SUFFIX,phvod.top
+  - DOMAIN-SUFFIX,gszyi.com
+  - DOMAIN-SUFFIX,xn--4csx55ask7a.com
+  - DOMAIN-SUFFIX,json.icu
+  - DOMAIN-SUFFIX,kuqjz.com
+  - DOMAIN-SUFFIX,ppsebs.com
+  - DOMAIN-SUFFIX,wpscdn.cn
+  - DOMAIN-SUFFIX,gtimg.cn
+  - DOMAIN-SUFFIX,skypack.dev
+  - DOMAIN-SUFFIX,bing.net
+  - DOMAIN-SUFFIX,xboxlive.com
+  - DOMAIN-SUFFIX,soupian.com
+  - DOMAIN-SUFFIX,githubusercontent.com
+  - DOMAIN-SUFFIX,tdweilai.top
 
 ##关键字
   - DOMAIN-KEYWORD,ntp
