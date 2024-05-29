@@ -62,6 +62,7 @@ payload:
   - DOMAIN-SUFFIX,smxjysm.com
   - DOMAIN-SUFFIX,duanjutv
   - DOMAIN-SUFFIX,cloudflare.com
+  - DOMAIN-SUFFIX,jsdelivr.net
   
 ##关键字
   - DOMAIN-KEYWORD,ntp
