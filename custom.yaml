@@ -61,6 +61,7 @@ payload:
   - DOMAIN-SUFFIX,acg-cdn.top
   - DOMAIN-SUFFIX,smxjysm.com
   - DOMAIN-SUFFIX,duanjutv
+  - DOMAIN-SUFFIX,cloudflare.com
   
 ##关键字
   - DOMAIN-KEYWORD,ntp
