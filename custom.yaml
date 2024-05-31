@@ -63,6 +63,7 @@ payload:
   - DOMAIN-SUFFIX,duanjutv
   - DOMAIN-SUFFIX,cloudflare.com
   - DOMAIN-SUFFIX,jsdelivr.net
+  - DOMAIN-SUFFIX,alibabacloud.com
   
 ##关键字
   - DOMAIN-KEYWORD,ntp
