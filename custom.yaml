@@ -64,6 +64,7 @@ payload:
   - DOMAIN-SUFFIX,cloudflare.com
   - DOMAIN-SUFFIX,jsdelivr.net
   - DOMAIN-SUFFIX,alibabacloud.com
+  - DOMAIN-SUFFIX,rawchat.cc
   
 ##关键字
   - DOMAIN-KEYWORD,ntp
