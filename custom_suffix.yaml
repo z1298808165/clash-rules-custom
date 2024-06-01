@@ -43,3 +43,4 @@ payload:
  - '+.cloudflare.com'
  - '+.jsdelivr.net'
  - '+.alibabacloud.com'
+ - '+.rawchat.cc'
