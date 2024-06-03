@@ -66,6 +66,7 @@ payload:
   - DOMAIN-SUFFIX,alibabacloud.com
   - DOMAIN-SUFFIX,rawchat.cc
   - DOMAIN-SUFFIX,yzzy20-play.com
+  - DOMAIN-SUFFIX,acachy.com
   
 ##关键字
   - DOMAIN-KEYWORD,ntp
