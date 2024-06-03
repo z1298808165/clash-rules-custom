@@ -70,6 +70,7 @@ payload:
   - DOMAIN-SUFFIX,33down.top
   - DOMAIN-SUFFIX,tttt.ee
   - DOMAIN-SUFFIX,xiaomoz.cc
+  - DOMAIN-SUFFIX,greasyfork.org
   
 ##关键字
   - DOMAIN-KEYWORD,ntp
