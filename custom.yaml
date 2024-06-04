@@ -71,6 +71,7 @@ payload:
   - DOMAIN-SUFFIX,tttt.ee
   - DOMAIN-SUFFIX,xiaomoz.cc
   - DOMAIN-SUFFIX,greasyfork.org
+  - DOMAIN-SUFFIX,yzzy22-play.com
   
 ##关键字
   - DOMAIN-KEYWORD,ntp
