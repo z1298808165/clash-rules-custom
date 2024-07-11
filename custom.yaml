@@ -72,6 +72,11 @@ payload:
   - DOMAIN-SUFFIX,xiaomoz.cc
   - DOMAIN-SUFFIX,greasyfork.org
   - DOMAIN-SUFFIX,yzzy22-play.com
+  - DOMAIN-SUFFIX,hdzyk-video.com
+  - DOMAIN-SUFFIX,ffzy-online2.com
+  - DOMAIN-SUFFIX,lz-cdn6.com
+  - DOMAIN-SUFFIX,monidai.com
+
   
 ##关键字
   - DOMAIN-KEYWORD,ntp
