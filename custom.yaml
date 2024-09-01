@@ -21,7 +21,7 @@ payload:
   - DOMAIN,www.duanjutv.cc
   - DOMAIN,c1.rrcdnbf3.com
   - DOMAIN,www.kzqkf.com
-  - DOMAIN,r2---sn-a5meknzl.gvt1.com
+  - proxy,r2---sn-a5meknzl.gvt1.com
 
 #域名后缀
   - DOMAIN-SUFFIX,qq.com
