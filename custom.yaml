@@ -22,6 +22,7 @@ payload:
   - DOMAIN,c1.rrcdnbf3.com
   - DOMAIN,www.kzqkf.com
   - proxy,r2---sn-a5meknzl.gvt1.com
+  - DOMAIN,chat.rawchat.top
 
 #域名后缀
   - DOMAIN-SUFFIX,qq.com
