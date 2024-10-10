@@ -23,6 +23,7 @@ payload:
   - DOMAIN,www.kzqkf.com
   - proxy,r2---sn-a5meknzl.gvt1.com
   - DOMAIN,chat.rawchat.top
+  - DOMAIN,www.sourcepower.top
 
 #域名后缀
   - DOMAIN-SUFFIX,qq.com
