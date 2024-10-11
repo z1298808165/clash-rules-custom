@@ -24,6 +24,7 @@ payload:
   - proxy,r2---sn-a5meknzl.gvt1.com
   - DOMAIN,chat.rawchat.top
   - DOMAIN,www.sourcepower.top
+  - DOMAIN,vip.ffzy-online4.com
 
 #域名后缀
   - DOMAIN-SUFFIX,qq.com
