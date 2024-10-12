@@ -133,7 +133,8 @@ payload:
 #IP
   - IP-CIDR,18.163.11.0/8
   - IP-CIDR,104.224.248.0/8
-
+  - IP-CIDR,38.61.5.0/8
+  
 #进程
  - PROCESS-NAME,zyplayer
  - PROCESS-NAME,zyplayer.exe
