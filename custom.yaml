@@ -27,6 +27,7 @@ payload:
   - DOMAIN,vip.ffzy-online4.com
   - DOMAIN,svip.high24-playback.com
   - DOMAIN,c1.rrcdnbf7.com
+  
 
 #域名后缀
   - DOMAIN-SUFFIX,qq.com
@@ -118,7 +119,6 @@ payload:
   - DOMAIN-KEYWORD,ffzyread
   - DOMAIN-KEYWORD,bfbfvip
   - DOMAIN-KEYWORD,dsxys
-  - DOMAIN-KEYWORD,waipian
   - DOMAIN-KEYWORD,wolong
   - DOMAIN-KEYWORD,wegamex
   - DOMAIN-KEYWORD,wegame
