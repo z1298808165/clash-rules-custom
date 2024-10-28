@@ -140,13 +140,17 @@ const ruleProviders = {
     "behavior": "classical",
     "url": "https://raw.githubusercontent.com/z1298808165/clash-rules-custom/main/custom.yaml",
     "path": "./ruleset/loyalsoldier/custom.yaml"
+  },
+  "custom_ip": {
+    ...ruleProviderCommon,
+    "behavior": "classical",
+    "url": "https://raw.githubusercontent.com/z1298808165/clash-rules-custom/main/custom_ip.yaml",
+    "path": "./ruleset/loyalsoldier/custom_ip.yaml"
   }
 };
 // 规则
 const rules = [
   // 自定义规则
-  "RULE-SET,custom,全局直连",
-
   "DOMAIN-SUFFIX,googleapis.cn,节点选择", // Google服务
   "DOMAIN-SUFFIX,gstatic.com,节点选择", // Google静态资源
   "DOMAIN-SUFFIX,xn--ngstr-lra8j.com,节点选择", // Google Play下载服务
@@ -155,6 +159,8 @@ const rules = [
   // blackmatrix7 规则集
   "RULE-SET,openai,ChatGPT",
   // Loyalsoldier 规则集
+  "RULE-SET,custom,全局直连",
+  "RULE-SET,custom_ip,全局直连,no-resolve",
   "RULE-SET,applications,全局直连",
   "RULE-SET,private,全局直连",
   "RULE-SET,reject,广告过滤",
