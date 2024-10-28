@@ -131,15 +131,6 @@ payload:
   - DOMAIN-KEYWORD,physvod
   - DOMAIN-KEYWORD,duanjutv 
 
-  
-#IP
-  - IP-CIDR,18.163.11.0/8
-  - IP-CIDR,104.224.248.0/8
-  - IP-CIDR,38.61.5.0/8
-  - IP-CIDR,172.80.104.0/8
-  - IP-CIDR,142.4.110.0/8
-  - IP-CIDR,107.149.229.0/8
-  
 #进程
  - PROCESS-NAME,zyplayer
  - PROCESS-NAME,zyplayer.exe
