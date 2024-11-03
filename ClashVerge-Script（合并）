@@ -140,12 +140,6 @@ const ruleProviders = {
     "behavior": "classical",
     "url": "https://raw.githubusercontent.com/z1298808165/clash-rules-custom/main/custom.yaml",
     "path": "./ruleset/loyalsoldier/custom.yaml"
-  },
-  "custom_ip": {
-    ...ruleProviderCommon,
-    "behavior": "classical",
-    "url": "https://raw.githubusercontent.com/z1298808165/clash-rules-custom/main/custom_ip.yaml",
-    "path": "./ruleset/loyalsoldier/custom_ip.yaml"
   }
 };
 // 规则
@@ -160,7 +154,6 @@ const rules = [
   "RULE-SET,openai,ChatGPT",
   // Loyalsoldier 规则集
   "RULE-SET,custom,全局直连",
-  "RULE-SET,custom_ip,全局直连,no-resolve",
   "RULE-SET,applications,全局直连",
   "RULE-SET,private,全局直连",
   "RULE-SET,reject,广告过滤",
