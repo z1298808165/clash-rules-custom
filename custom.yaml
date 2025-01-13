@@ -28,8 +28,8 @@ payload:
   - DOMAIN,svip.high24-playback.com
   - DOMAIN,c1.rrcdnbf7.com
   - DOMAIN,c1.7bbffvip.com
-  - DOMAIN,svip.high22-playback.com
-
+  - DOMAIN,svip.high25-playback.com
+  
 #域名后缀
   - DOMAIN-SUFFIX,qq.com
   - DOMAIN-SUFFIX,ffzyread.com
