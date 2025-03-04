@@ -89,6 +89,8 @@ payload:
   - DOMAIN-SUFFIX,high21-playback.com
   - DOMAIN-SUFFIX,weigusi.com
   - DOMAIN-SUFFIX,kkzycdn.com
+  - DOMAIN-SUFFIX,wetransfer.com
+  - DOMAIN-SUFFIX,wetransfer.net
 
   
 ##关键字
