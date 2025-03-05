@@ -29,7 +29,8 @@ payload:
   - DOMAIN,c1.rrcdnbf7.com
   - DOMAIN,c1.7bbffvip.com
   - DOMAIN,svip.high25-playback.com
-  - DOMAIN,adguard.com
+  - DOMAIN,link.adtidy.org
+
   
 #域名后缀
   - DOMAIN-SUFFIX,qq.com
@@ -92,6 +93,7 @@ payload:
   - DOMAIN-SUFFIX,kkzycdn.com
   - DOMAIN-SUFFIX,wetransfer.com
   - DOMAIN-SUFFIX,wetransfer.net
+  - DOMAIN-SUFFIX,adguard.com
 
   
 ##关键字
