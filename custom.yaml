@@ -94,6 +94,7 @@ payload:
   - DOMAIN-SUFFIX,wetransfer.com
   - DOMAIN-SUFFIX,wetransfer.net
   - DOMAIN-SUFFIX,adguard.com
+  - DOMAIN-SUFFIX,cli.im
 
   
 ##关键字
