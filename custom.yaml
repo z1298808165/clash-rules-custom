@@ -32,6 +32,7 @@ payload:
   - DOMAIN,link.adtidy.org
   - DOMAIN,dsadata.intel.com
   - DOMAIN,app.tavily.com
+  - DOMAIN,a1.art
 
   
 #域名后缀
