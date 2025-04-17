@@ -33,6 +33,7 @@ payload:
   - DOMAIN,dsadata.intel.com
   - DOMAIN,app.tavily.com
   - DOMAIN,a1.art
+  - DOMAIN,anydesk.com
 
   
 #域名后缀
@@ -98,6 +99,7 @@ payload:
   - DOMAIN-SUFFIX,wetransfer.net
   - DOMAIN-SUFFIX,adguard.com
   - DOMAIN-SUFFIX,cli.im
+  
 
   
 ##关键字
@@ -156,7 +158,8 @@ payload:
  - PROCESS-NAME,悠米助手.exe
  - PROCESS-NAME,zyfun.exe
  - PROCESS-NAME,ms-teams.exe
-
+ - PROCESS-NAME,AnyDesk.exe
+ 
 
 #IP
  - IP-CIDR,18.163.11.0/24
