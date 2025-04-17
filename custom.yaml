@@ -155,6 +155,7 @@ payload:
  - PROCESS-NAME,svchost.exe
  - PROCESS-NAME,悠米助手.exe
  - PROCESS-NAME,zyfun.exe
+ - PROCESS-NAME,ms-teams.exe
 
 
 #IP
