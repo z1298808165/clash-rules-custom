@@ -159,7 +159,11 @@ payload:
  - PROCESS-NAME,zyfun.exe
  - PROCESS-NAME,ms-teams.exe
  - PROCESS-NAME,AnyDesk.exe
- 
+ - PROCESS-NAME,QQPCTray.exe
+ - PROCESS-NAME,QQPCRTP.exe
+ - PROCESS-NAME,LockApp.exe
+ - PROCESS-NAME,SystemSettings.exe
+ - PROCESS-NAME,TextInputHost.exe
 
 #IP
  - IP-CIDR,18.163.11.0/24
