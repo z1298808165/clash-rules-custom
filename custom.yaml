@@ -164,6 +164,8 @@ payload:
  - PROCESS-NAME,LockApp.exe
  - PROCESS-NAME,SystemSettings.exe
  - PROCESS-NAME,TextInputHost.exe
+ - PROCESS-NAME,firefox.exe
+ - PROCESS-NAME,HP.myHP.exe
 
 #IP
  - IP-CIDR,18.163.11.0/24
