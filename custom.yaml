@@ -34,6 +34,7 @@ payload:
   - DOMAIN,app.tavily.com
   - DOMAIN,a1.art
   - DOMAIN,anydesk.com
+  - DOMAIN,mockuphone.com
 
   
 #域名后缀
