@@ -93,7 +93,6 @@ payload:
   - DOMAIN-SUFFIX,33down.top
   - DOMAIN-SUFFIX,tttt.ee
   - DOMAIN-SUFFIX,xiaomoz.cc
-  - DOMAIN-SUFFIX,greasyfork.org
   - DOMAIN-SUFFIX,yzzy22-play.com
   - DOMAIN-SUFFIX,hdzyk-video.com
   - DOMAIN-SUFFIX,ffzy-online2.com
@@ -106,7 +105,7 @@ payload:
   - DOMAIN-SUFFIX,wetransfer.net
   - DOMAIN-SUFFIX,adguard.com
   - DOMAIN-SUFFIX,cli.im
-  
+  - DOMAIN-SUFFIX,kxdao.net
 
   
 ##关键字
