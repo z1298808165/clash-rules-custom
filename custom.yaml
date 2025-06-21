@@ -101,8 +101,6 @@ payload:
   - DOMAIN-SUFFIX,high21-playback.com
   - DOMAIN-SUFFIX,weigusi.com
   - DOMAIN-SUFFIX,kkzycdn.com
-  - DOMAIN-SUFFIX,wetransfer.com
-  - DOMAIN-SUFFIX,wetransfer.net
   - DOMAIN-SUFFIX,adguard.com
   - DOMAIN-SUFFIX,cli.im
   - DOMAIN-SUFFIX,kxdao.net
