@@ -107,6 +107,7 @@ payload:
   - DOMAIN-SUFFIX,jlr-a2z.com
   - DOMAIN-SUFFIX,high26-playback.com
   - DOMAIN-SUFFIX,kj9am92iw8ch.com
+  - DOMAIN-SUFFIX,ibyteimg.com
   
 ##关键字
   - DOMAIN-KEYWORD,ntp
@@ -148,7 +149,7 @@ payload:
   - DOMAIN-KEYWORD,shoubozhan
   - DOMAIN-KEYWORD,soupian
   - DOMAIN-KEYWORD,physvod
-  - DOMAIN-KEYWORD,duanjutv 
+  - DOMAIN-KEYWORD,duanjutv
 
 #进程
  - PROCESS-NAME,zyplayer
