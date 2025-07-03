@@ -40,9 +40,7 @@ payload:
   - DOMAIN,vip.ffzy-video.com
   - DOMAIN,hn.bfvvs.com
   - DOMAIN,ukzy.ukubf4.com
-  - DOMAIN,sendgb.com
   
-
   
 #域名后缀
   - DOMAIN-SUFFIX,qq.com
@@ -111,6 +109,7 @@ payload:
   - DOMAIN-SUFFIX,ibyteimg.com
   - DOMAIN-SUFFIX,ggvip.click
   - DOMAIN-SUFFIX,nezhasu.com
+  - DOMAIN-SUFFIX,sendgb.com
   
 ##关键字
   - DOMAIN-KEYWORD,ntp
