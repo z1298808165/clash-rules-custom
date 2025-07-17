@@ -49,6 +49,7 @@ payload:
   - DOMAIN,p.b8bf.com
   - DOMAIN,v.lzcdn25.com
   - DOMAIN,ukzy.ukubf3.com
+  - DOMAIN,jxjx.hidns.vip
   
   
 #域名后缀
@@ -119,6 +120,7 @@ payload:
   - DOMAIN-SUFFIX,ggvip.click
   - DOMAIN-SUFFIX,nezhasu.com
   - DOMAIN-SUFFIX,sendgb.com
+  
   
 ##关键字
   - DOMAIN-KEYWORD,ntp
