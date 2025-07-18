@@ -122,6 +122,7 @@ payload:
   - DOMAIN-SUFFIX,sendgb.com
   - DOMAIN-SUFFIX,bestvideow.com
   - DOMAIN-SUFFIX,tailwindcss.com
+  - DOMAIN-SUFFIX,hmrvideo.com
   
 ##关键字
   - DOMAIN-KEYWORD,ntp
