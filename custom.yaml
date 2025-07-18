@@ -121,7 +121,7 @@ payload:
   - DOMAIN-SUFFIX,nezhasu.com
   - DOMAIN-SUFFIX,sendgb.com
   - DOMAIN-SUFFIX,bestvideow.com
-  
+  - DOMAIN-SUFFIX,tailwindcss.com
   
 ##关键字
   - DOMAIN-KEYWORD,ntp
