@@ -193,6 +193,7 @@ payload:
  - PROCESS-NAME,DingTalk.exe
  - PROCESS-NAME,资源猫 Beta.exe
  - PROCESS-NAME,et.exe
+ - PROCESS-NAME,LeagueClientUxRender.exe
 
 #IP
  - IP-CIDR,18.163.11.0/24
