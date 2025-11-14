@@ -129,6 +129,7 @@ payload:
   - DOMAIN-SUFFIX,gtx2bvtnntk9.com
   - DOMAIN-SUFFIX,obsproject.com
   - DOMAIN-SUFFIX,deepsider.ai
+  - DOMAIN-SUFFIX,deepsider.net
   
 ##关键字
   - DOMAIN-KEYWORD,ntp
