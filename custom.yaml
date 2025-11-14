@@ -171,6 +171,7 @@ payload:
   - DOMAIN-KEYWORD,soupian
   - DOMAIN-KEYWORD,physvod
   - DOMAIN-KEYWORD,duanjutv
+  - DOMAIN-KEYWORD,deepsider
 
 #进程
  - PROCESS-NAME,zyplayer
