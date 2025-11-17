@@ -200,6 +200,7 @@ payload:
  - PROCESS-NAME,et.exe
  - PROCESS-NAME,LeagueClientUxRender.exe
  - PROCESS-NAME,Ld9BoxHeadless.exe
+ - PROCESS-NAME,Adguard.exe
 
 #IP
  - IP-CIDR,18.163.11.0/24
