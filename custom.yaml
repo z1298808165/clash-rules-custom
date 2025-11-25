@@ -134,6 +134,7 @@ payload:
   - DOMAIN-SUFFIX,zenmux.ai
   - DOMAIN-SUFFIX,freedidi.com
   - DOMAIN-SUFFIX,fakepersongenerator.com
+  - DOMAIN-SUFFIX,us.kg
   
 ##关键字
   - DOMAIN-KEYWORD,ntp
