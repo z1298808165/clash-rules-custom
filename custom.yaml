@@ -132,6 +132,7 @@ payload:
   - DOMAIN-SUFFIX,deepsider.net
   - DOMAIN-SUFFIX,flowith.net
   - DOMAIN-SUFFIX,zenmux.ai
+  - DOMAIN-SUFFIX,freedidi.com
   
 ##关键字
   - DOMAIN-KEYWORD,ntp
