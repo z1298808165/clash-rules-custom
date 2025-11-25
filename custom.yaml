@@ -133,6 +133,7 @@ payload:
   - DOMAIN-SUFFIX,flowith.net
   - DOMAIN-SUFFIX,zenmux.ai
   - DOMAIN-SUFFIX,freedidi.com
+  - DOMAIN-SUFFIX,fakepersongenerator.com
   
 ##关键字
   - DOMAIN-KEYWORD,ntp
