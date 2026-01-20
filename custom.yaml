@@ -207,6 +207,7 @@ payload:
  - PROCESS-NAME,Ld9BoxHeadless.exe
  - PROCESS-NAME,Adguard.exe
  - PROCESS-NAME,yuanbao.exe
+ - PROCESS-NAME,LeagueClient.exe
 
 #IP
  - IP-CIDR,18.163.11.0/24
