@@ -208,6 +208,9 @@ payload:
  - PROCESS-NAME,Adguard.exe
  - PROCESS-NAME,yuanbao.exe
  - PROCESS-NAME,LeagueClient.exe
+ - PROCESS-NAME,QQ.exe
+ - PROCESS-NAME,Foxmail.exe
+ - PROCESS-NAME,DingTalk.exe
 
 #IP
  - IP-CIDR,18.163.11.0/24
