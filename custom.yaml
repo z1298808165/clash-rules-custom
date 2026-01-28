@@ -211,6 +211,7 @@ payload:
  - PROCESS-NAME,QQ.exe
  - PROCESS-NAME,Foxmail.exe
  - PROCESS-NAME,DingTalk.exe
+ - PROCESS-NAME,SGuard64.exe
 
 #IP
  - IP-CIDR,18.163.11.0/24
