@@ -207,6 +207,11 @@ payload:
  - PROCESS-NAME,LeagueClientUxRender.exe
  - PROCESS-NAME,Ld9BoxHeadless.exe
  - PROCESS-NAME,Adguard.exe
+ - PROCESS-NAME,Adguard.BrowserExtensionHost.exe
+ - PROCESS-NAME,Adguard.Launcher.Arm64.exe
+ - PROCESS-NAME,Adguard.Launcher.exe
+ - PROCESS-NAME,Adguard.Tools.exe
+ - PROCESS-NAME,AdguardSvc.exe
  - PROCESS-NAME,yuanbao.exe
  - PROCESS-NAME,LeagueClient.exe
  - PROCESS-NAME,QQ.exe
