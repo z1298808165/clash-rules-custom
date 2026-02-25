@@ -30,6 +30,13 @@ payload:
   - DOMAIN,c1.7bbffvip.com
   - DOMAIN,svip.high25-playback.com
   - DOMAIN,link.adtidy.org
+  - DOMAIN,auth.adguardaccount.net
+  - DOMAIN,adguardaccount.net
+  - DOMAIN,st2.adguardcdn.com
+  - DOMAIN,
+  - DOMAIN,
+  - DOMAIN,
+  - DOMAIN,
   - DOMAIN,dsadata.intel.com
   - DOMAIN,app.tavily.com
   - DOMAIN,a1.art
