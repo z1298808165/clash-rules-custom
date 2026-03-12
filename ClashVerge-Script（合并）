@@ -144,6 +144,9 @@ const ruleProviders = {
 };
 // 规则
 const rules = [
+  // AdGuard 广告过滤器走代理（放在最前面优先匹配）
+  "PROCESS-NAME,AdGuard.exe,节点选择",
+  "PROCESS-NAME,AdGuardSvc.exe,节点选择",
   // 自定义规则
   "DOMAIN-SUFFIX,googleapis.cn,节点选择", // Google服务
   "DOMAIN-SUFFIX,gstatic.com,节点选择", // Google静态资源
