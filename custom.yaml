@@ -208,7 +208,6 @@ payload:
  - PROCESS-NAME,DingTalk.exe
  - PROCESS-NAME,资源猫 Beta.exe
  - PROCESS-NAME,et.exe
- - PROCESS-NAME,LeagueClientUxRender.exe
  - PROCESS-NAME,Ld9BoxHeadless.exe
  - PROCESS-NAME,Adguard.exe
  - PROCESS-NAME,Adguard.BrowserExtensionHost.exe
@@ -217,11 +216,26 @@ payload:
  - PROCESS-NAME,Adguard.Tools.exe
  - PROCESS-NAME,AdguardSvc.exe
  - PROCESS-NAME,yuanbao.exe
- - PROCESS-NAME,LeagueClient.exe
  - PROCESS-NAME,QQ.exe
  - PROCESS-NAME,Foxmail.exe
  - PROCESS-NAME,DingTalk.exe
  - PROCESS-NAME,SGuard64.exe
+ - PROCESS-NAME,wegame.exe
+ - PROCESS-NAME,League of Legends.exe
+ - PROCESS-NAME,RiotClientServices.exe
+ - PROCESS-NAME,icreateLol.exe
+ - PROCESS-NAME,LolAICoach.exe
+ - PROCESS-NAME,CrossProxy.exe
+ - PROCESS-NAME,LeagueClientUx.exe
+ - PROCESS-NAME,LeagueClientUxRender.exe
+ - PROCESS-NAME,pallas.exe
+ - PROCESS-NAME,bugreport.exe
+ - PROCESS-NAME,RedGate.Client.Service.exe
+ - PROCESS-NAME,LeagueClient.exe
+ - PROCESS-NAME,LeagueCrashHandler64.exe
+ - PROCESS-NAME,browser.exe
+ - PROCESS-NAME,SGuard64.exe
+ - PROCESS-NAME,SGuardSvc64.exe
 
 #IP
  - IP-CIDR,18.163.11.0/24
