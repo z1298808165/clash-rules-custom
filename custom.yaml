@@ -140,6 +140,13 @@ payload:
   - DOMAIN-SUFFIX,fakepersongenerator.com
   - DOMAIN-SUFFIX,us.kg
   - DOMAIN-SUFFIX,adtidy.org
+  - DOMAIN-SUFFIX,hkys2.cc
+  - DOMAIN-SUFFIX,nmsp2.cc
+  - DOMAIN-SUFFIX,dyttlg.com
+  - DOMAIN-SUFFIX,yingshikong.com
+  - DOMAIN-SUFFIX,naifeiyy.com
+  - DOMAIN-SUFFIX,zhenbukady.com
+  - DOMAIN-SUFFIX,555dyy.com
   
 ##关键字
   - DOMAIN-KEYWORD,ntp
@@ -183,6 +190,7 @@ payload:
   - DOMAIN-KEYWORD,physvod
   - DOMAIN-KEYWORD,duanjutv
   - DOMAIN-KEYWORD,deepsider
+  - DOMAIN-KEYWORD,waipian
 
 #进程
  - PROCESS-NAME,zyplayer
