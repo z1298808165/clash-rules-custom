@@ -244,6 +244,7 @@ payload:
  - PROCESS-NAME,browser.exe
  - PROCESS-NAME,SGuard64.exe
  - PROCESS-NAME,SGuardSvc64.exe
+ - PROCESS-NAME,AweSun.exe
 
 #IP
  - IP-CIDR,18.163.11.0/24
