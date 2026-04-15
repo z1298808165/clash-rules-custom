@@ -58,8 +58,7 @@ payload:
   - DOMAIN,www.hhkan2.com
   - DOMAIN,cdn.wlcdn88.com
   - DOMAIN,filters.adtidy.org
-  - DOMAIN,freeai.071129.xyz
-  
+  - DOMAIN,padi.closeai.hk
   
 #域名后缀
   - DOMAIN-SUFFIX,qq.com
@@ -148,7 +147,6 @@ payload:
   - DOMAIN-SUFFIX,naifeiyy.com
   - DOMAIN-SUFFIX,zhenbukady.com
   - DOMAIN-SUFFIX,555dyy.com
-  - DOMAIN-SUFFIX,closeai.hk
   - DOMAIN-SUFFIX,071129.xyz
   
 ##关键字
