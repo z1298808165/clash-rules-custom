@@ -58,6 +58,7 @@ payload:
   - DOMAIN,www.hhkan2.com
   - DOMAIN,cdn.wlcdn88.com
   - DOMAIN,filters.adtidy.org
+  - DOMAIN,alexai.work
   
 #域名后缀
   - DOMAIN-SUFFIX,qq.com
