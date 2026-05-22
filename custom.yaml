@@ -151,6 +151,7 @@ payload:
   - DOMAIN-SUFFIX,555dyy.com
   - DOMAIN-SUFFIX,071129.xyz
   - DOMAIN-SUFFIX,closeai.hk
+  - DOMAIN-SUFFIX,hub.tokenpanda.top
   
 ##关键字
   - DOMAIN-KEYWORD,ntp
