@@ -252,6 +252,7 @@ payload:
  - PROCESS-NAME,SGuardSvc64.exe
  - PROCESS-NAME,AweSun.exe
  - PROCESS-NAME,echobird.exe
+ - PROCESS-NAME,Codex.exe
 
 #IP
  - IP-CIDR,18.163.11.0/24
