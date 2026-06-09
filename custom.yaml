@@ -153,6 +153,7 @@ payload:
   - DOMAIN-SUFFIX,closeai.hk
   - DOMAIN-SUFFIX,hub.tokenpanda.top
   - DOMAIN-SUFFIX,www.xmapi.cc
+  - DOMAIN-SUFFIX,api.e2ez.com
   
 ##关键字
   - DOMAIN-KEYWORD,ntp
