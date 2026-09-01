@@ -61,6 +61,7 @@ payload:
   - DOMAIN,alexai.work
   - DOMAIN,filters.adtidy.org
   - DOMAIN,timor.tech
+  - DOMAIN,pool.chaozhiyuanai.com
   
 #域名后缀
   - DOMAIN-SUFFIX,qq.com
