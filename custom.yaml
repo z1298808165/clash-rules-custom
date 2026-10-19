@@ -60,7 +60,6 @@ payload:
   - DOMAIN,alexai.work
   - DOMAIN,timor.tech
   - DOMAIN,pool.chaozhiyuanai.com
-  - DOMAIN,api.krisphyn.cc
 
 #域名后缀
   - DOMAIN-SUFFIX,qq.com
