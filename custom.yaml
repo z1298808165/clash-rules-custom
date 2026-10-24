@@ -60,6 +60,7 @@ payload:
   - DOMAIN,alexai.work
   - DOMAIN,timor.tech
   - DOMAIN,pool.chaozhiyuanai.com
+  - DOMAIN,cdn-zcode.z.ai
 
 #域名后缀
   - DOMAIN-SUFFIX,qq.com
@@ -154,6 +155,7 @@ payload:
   - DOMAIN-SUFFIX,tokenpanda.top
   - DOMAIN-SUFFIX,chaozhiyuanai.com
   - DOMAIN-SUFFIX,walkcoding.top
+  - DOMAIN-SUFFIX,z.ai
 
 ##关键字
   - DOMAIN-KEYWORD,ntp
