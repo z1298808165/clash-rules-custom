@@ -156,6 +156,7 @@ payload:
   - DOMAIN-SUFFIX,chaozhiyuanai.com
   - DOMAIN-SUFFIX,walkcoding.top
   - DOMAIN-SUFFIX,z.ai
+  - DOMAIN-SUFFIX,bigmodel.cn
 
 ##关键字
   - DOMAIN-KEYWORD,ntp
@@ -268,7 +269,6 @@ payload:
   - PROCESS-NAME,MAL.exe
   - PROCESS-NAME,AIAppLeakScan64.exe
   - PROCESS-NAME,CubeNetSpeedTest64.exe
-
 #IP
   - IP-CIDR,18.163.11.0/24
   - IP-CIDR,104.224.248.0/24
