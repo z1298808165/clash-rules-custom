@@ -158,6 +158,7 @@ payload:
   - DOMAIN-SUFFIX,walkcoding.top
   - DOMAIN-SUFFIX,z.ai
   - DOMAIN-SUFFIX,bigmodel.cn
+  - DOMAIN-SUFFIX,githubusercontent.com
 
 ##关键字
   - DOMAIN-KEYWORD,ntp
