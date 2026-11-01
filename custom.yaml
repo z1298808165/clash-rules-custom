@@ -159,6 +159,7 @@ payload:
   - DOMAIN-SUFFIX,z.ai
   - DOMAIN-SUFFIX,bigmodel.cn
   - DOMAIN-SUFFIX,githubusercontent.com
+  - DOMAIN-SUFFIX,krisphyn.cc
 
 ##关键字
   - DOMAIN-KEYWORD,ntp
