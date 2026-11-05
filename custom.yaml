@@ -160,6 +160,7 @@ payload:
   - DOMAIN-SUFFIX,bigmodel.cn
   - DOMAIN-SUFFIX,githubusercontent.com
   - DOMAIN-SUFFIX,krisphyn.cc
+  - DOMAIN-SUFFIX,echobird.ai
 
 ##关键字
   - DOMAIN-KEYWORD,ntp
