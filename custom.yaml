@@ -62,6 +62,8 @@ payload:
   - DOMAIN,pool.chaozhiyuanai.com
   - DOMAIN,cdn-zcode.z.ai 
   - DOMAIN,mpay.1987a.cn
+  - DOMAIN,mpay.1987a9999.cn
+
 
 #域名后缀
   - DOMAIN-SUFFIX,qq.com
